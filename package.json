@@ -10,5 +10,10 @@
     "name": "like",
     "email": "1575523729@qq.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/like0413/npm-learn"
+  },
+  "homepage": "https://github.com/like0413/npm-learn#readme",
   "license": "MIT"
 }
