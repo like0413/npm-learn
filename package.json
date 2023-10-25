@@ -1,0 +1,14 @@
+{
+  "name": "@like/20231025",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "like测试包",
+  "keywords": [
+    "like"
+  ],
+  "author": {
+    "name": "like",
+    "email": "1575523729@qq.com"
+  },
+  "license": "MIT"
+}
